@@ -1,4 +1,4 @@
-![cover-sokol-background](https://res.cloudinary.com/dpvsklksg/image/upload/v1723249159/Captura_de_pantalla_2024-08-09_a_la_s_6.13.28_p.m._sma2ed.png)
+![cover-seasons-background](https://res.cloudinary.com/dpvsklksg/image/upload/v1723249159/Captura_de_pantalla_2024-08-09_a_la_s_6.13.28_p.m._sma2ed.png)
 
 # Seasons |  Minimal Templates
 
@@ -12,7 +12,7 @@ Minimal and versatile 4-in-1 template that captures the vibrant essence of each 
 
 Perfect for freelancers, artists, and photographers looking to showcase a visually striking portfolio, this template blends aesthetics with functionality. Its intuitive interface allows users to create and customize their websites effortlessly.
 
-Made by [Eco Development Studios](https://www.ecostudios.dev/)
+Made with ❤️ by [Eco Development Studios](https://www.ecostudios.dev/)
 - **Pages:** 4
 - **Sections:** 4
 - **Components:** ~25
@@ -30,9 +30,9 @@ Made by [Eco Development Studios](https://www.ecostudios.dev/)
 ## Specifications
 
 - **Price:** Free
-- **Released date:** 13/04/23
+- **Released date:** 07/08/24
 - **Version:** 0.1
-- **Tech Stack:** Nuxt 3 & TailwindCSS
+- **Tech Stack:** Nuxt 3, Nuxt UI & TailwindCSS
 - **Category:** SaaS
 - **Page Speed:** 90 / 100 / 100 / 90
 - **Compatibility:** Chrome, Firefox, Safari, Brave, Arc, Edge
