@@ -1,0 +1,15 @@
+# Seasons
+
+> Four seasonal portfolio templates built with Nuxt 3 and Nuxt UI, by Eco Development Studios.
+
+Seasons is a showcase of Spring, Summer, Autumn and Winter portfolio designs for freelancers and creative professionals.
+
+## Public pages
+
+- [Seasons](https://seasons.ecostudios.dev/): template selector.
+- [Spring](https://seasons.ecostudios.dev/seasons/spring): portfolio preview.
+- [Summer](https://seasons.ecostudios.dev/seasons/summer): portfolio preview.
+- [Autumn](https://seasons.ecostudios.dev/seasons/autumn): portfolio preview.
+- [Winter](https://seasons.ecostudios.dev/seasons/winter): portfolio preview.
+- [Sitemap](https://seasons.ecostudios.dev/sitemap.xml): public page list.
+- [Eco Development Studios](https://www.ecostudios.dev/): publisher.
